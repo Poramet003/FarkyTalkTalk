@@ -1,7 +1,7 @@
 # แอพ FarkyTalkTalk
     เป็นแอพเกี่ยวกับ ChatBot คล้ายคลึงกับ Simsimi โดยมีรายระเอียดดังนี้
     
-      - มีการดึง API จาก Simsimi 
+      - มีการดึง API จาก developer.simsimi.com
       - มีการดึง Libary มาใช้งาน
           - compile 'com.android.support:design:25.1.1'
           - compile 'com.github.lguipeng:BubbleView:1.0.1'
@@ -14,7 +14,7 @@
           - Chatmodel.java   เป็นรูปแบบโมเดลการ Chat
           - FarkyTalkTalkModel.java  เป็นรูปแบบ Model Bot
           - customAdapter.java  เป็นตัวควบคุม Adapter
-          
+          - MainActivity.java จะเป็นส่วนของการเชื่อมต่อ Api 
   ผู้จัดทำ 
         -  ปรเมศวร์, ทองแก้วเกิด รหัสนศ 5830213003
         
