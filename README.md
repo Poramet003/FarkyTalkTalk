@@ -27,3 +27,5 @@
 รูปยืนยันว่าแอพนี้สามารถใช้งานได้จริง (เผื่อก่อน Api หมดอายุก่อน)
     
 ![01](https://user-images.githubusercontent.com/23073425/34078698-1bae038c-e352-11e7-807b-90420f728ff9.JPG)
+![00](https://user-images.githubusercontent.com/23073425/34082855-e75eb06c-e398-11e7-8c4d-e5a7569ae2f4.JPG)
+
